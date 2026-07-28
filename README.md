@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(114, 233, 144);
+}
+header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5rem;
+    padding: 0rem;
+   
+}
+main{
+    background-color: rgb(248, 250, 252);
+    text-align: center;
+    margin: 5rem;
+    padding: 10rem;
+    border-radius: 2rem;
+    box-shadow: 1rem 1rem 15rem;
+}
+
+#botão{
+    margin: 1rem;
+    padding: 0rem;
+}
